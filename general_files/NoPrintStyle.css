@@ -1,0 +1,12 @@
+/* ----------------------------------- */
+.NonPrintable {
+	display: block;
+}
+
+.Printable {
+	display: none;
+}
+
+.content {
+	width: 100%;
+}

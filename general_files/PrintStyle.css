@@ -1,0 +1,8 @@
+/* ----------------------------------- */
+.NonPrintable {
+	display: none
+}
+
+.Printable {
+	display: block
+}
